@@ -1,5 +1,6 @@
 # Archive Chan
-Archive Chan is a 4chan archive implemented as a Django application.
+Archive Chan is a 4chan archive implemented as a Django application.  
+This project will most likely receive no further updates. [Flask version](https://github.com/boreq/archive_chan_flask) is actively developed instead.
 
 ![Board view - catalog](docs/screens/readme.png "Board view - catalog")
 [More screenshots](http://archivechan.imgur.com/)
